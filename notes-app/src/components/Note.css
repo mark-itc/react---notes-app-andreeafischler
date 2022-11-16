@@ -26,6 +26,11 @@
 
   .display-created-date {
     font-size: small;
-
   }
 
+  .close-modal {
+    margin-top: 20px;
+  }
+  .open-modal {
+    margin-top: 20px;
+  }

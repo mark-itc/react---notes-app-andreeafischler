@@ -18,5 +18,9 @@
    height: 100vh;
    
 }
-
-
+.form-note {
+  align-self: center;
+  margin-left: 25px;
+  display: flex;
+  flex-direction: row;
+}
